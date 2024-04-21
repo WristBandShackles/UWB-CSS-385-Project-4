@@ -12,7 +12,7 @@ Email: pisan@uw.edu<br>
 Due: April 21, 2024<br>
 Written in: Unity<br>
 
-Sample project: https://faculty.washington.edu/ksung/pub/tmp/2020-CSS385-Temp/CSS385-MP3-Solution-WebGL/Links to an external site.
+Sample project: https://faculty.washington.edu/ksung/pub/tmp/2020-CSS385-Temp/CSS385-MP3-Solution-WebGL/
 
 ### Required features:
 1. There are 6 waypoints, A-F
